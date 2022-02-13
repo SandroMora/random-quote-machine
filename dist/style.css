@@ -1,0 +1,33 @@
+body{
+  background-color: green;
+}
+#new-quote{
+  color: white;
+}
+
+#tweet-quote{
+  color: white;
+  border-radius: 10%;
+  width: 120%;
+  height: 120%;
+}
+#quote-box{
+  background-color: white;
+  height: 200px;
+  width: 400px;
+  left: 37%;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+}
+#text{
+  padding-left: 10px;
+}
+#new-quote{
+  margin-left: 10px;
+  position: static;
+}
+#author{
+  text-align: right;
+  padding-right: 10px;
+}
